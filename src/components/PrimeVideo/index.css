@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.prime-video-container {
+  background-color: #000000;
+  background-size: cover;
+}
+.prime-video-image {
+  width: 100%;
+}
+
+.action-movies-heading {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: 'Roboto';
+  font-size: 23px;
+}
+.slides-container {
+  padding: 30px;
+  margin-left: 20px;
+  width: 90%;
+}
